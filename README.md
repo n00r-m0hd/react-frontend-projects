@@ -1,4 +1,4 @@
-react-frontend-projects is a curated collection of frontend projects developed using React.js.
+React-frontend-projects is a curated collection of frontend projects developed using React.js.
 This repository demonstrates practical use of modern React concepts, component-based architecture, and responsive UI development.
 
 Each project focuses on writing clean, maintainable code while following best practices commonly used in real-world applications.
