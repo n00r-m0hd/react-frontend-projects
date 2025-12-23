@@ -37,7 +37,7 @@ Small to medium React applications
 Practice projects for frontend development
 
 
-urpose
+Purpose
 
 This repository is created for:
 
